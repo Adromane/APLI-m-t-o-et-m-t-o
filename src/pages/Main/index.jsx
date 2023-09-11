@@ -9,7 +9,7 @@ function Main(){
   return (
     <Container>
       <Consult>
-        <Title>Consultar Clima</Title>
+        <Title>Consulter la météo</Title>
         <Form>
           <Search
             type="text"
