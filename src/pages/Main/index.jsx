@@ -17,7 +17,7 @@ function Main(){
             city={city}
             onChange={(event) => setCity(event.target.value.replace(' ', '%20'))}
           />
-          <Submit to={`/${city}/weather`}>Enviar</Submit>
+          <Submit to={`/${city}/weather`}>Envoyer</Submit>
         </Form>
       </Consult>
     </Container>
