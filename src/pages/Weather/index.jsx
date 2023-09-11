@@ -10,7 +10,7 @@ function Weather(){
 
   const {city} = useParams();
   const date = new Date();
-  const months = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"]
+  const months = ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Setembro", "Outubro", "Novembro", "Dezembro"]
 
   const currentDate = `${months[date.getMonth()]} ${date.getDate()}, ${date.getFullYear()}`
 
