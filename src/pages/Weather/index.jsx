@@ -118,4 +118,4 @@ function Weather(){
   );
 };
 
-export default Météo;
+export default Weather;
