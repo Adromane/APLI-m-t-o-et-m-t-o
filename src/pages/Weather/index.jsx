@@ -97,7 +97,7 @@ function Weather(){
 
           <FInfo>
             <WiHumidity size={28} />
-            <Text>Umidade</Text>
+            <Text>Humidité</Text>
             <Percent>{data.main.humidity.toFixed(0)}%</Percent>
           </FInfo>
         </Forecast>
