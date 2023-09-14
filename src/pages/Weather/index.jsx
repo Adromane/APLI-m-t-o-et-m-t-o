@@ -63,7 +63,7 @@ function Weather(){
 
       <Container>
         <Consult>
-          Não foi possível carregar as informações de {city}!
+        Impossible de charger les informations {city}!
         </Consult>
       </Container>
 
