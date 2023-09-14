@@ -51,7 +51,7 @@ function Weather(){
 
       <Container>
         <Consult>
-          Carregando...
+        Chargement...
         </Consult>
       </Container>
 
