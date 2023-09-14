@@ -91,7 +91,7 @@ function Weather(){
 
           <FInfo>
             <WiStrongWind size={28} />
-            <Text>Vento</Text>
+            <Text>Vent</Text>
             <Percent>{data.wind.speed} Km/h</Percent>
           </FInfo>
 
