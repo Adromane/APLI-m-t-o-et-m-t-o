@@ -85,7 +85,7 @@ function Weather(){
         <Forecast>
           <FInfo>
             <WiUmbrella size={28} />
-            <Text>Chuva</Text>
+            <Text>Pluie</Text>
             <Percent>{rainProb}%</Percent>
           </FInfo>
 
