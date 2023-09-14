@@ -13,7 +13,7 @@ function Main(){
         <Form>
           <Search
             type="text"
-            placeholder="Digite uma cidade"
+            placeholder="Entrez une ville"
             city={city}
             onChange={(event) => setCity(event.target.value.replace(' ', '%20'))}
           />
