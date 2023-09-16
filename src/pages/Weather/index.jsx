@@ -6,7 +6,7 @@ import { Container, Consult, Info, Icon, Temperature, Desc, CurrentWeather, Fore
 import { getWeather, getRainProb } from "../../services/api";
 
 
-function Weather(){
+function Weather(){ 
 
   const {city} = useParams();
   const date = new Date();
