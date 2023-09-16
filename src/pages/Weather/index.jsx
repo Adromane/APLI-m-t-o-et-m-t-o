@@ -109,7 +109,7 @@ function Weather(){
           </LInfo>
           <LInfo>
             <IoCalendarOutline size={20} />
-            <Text2>{currentDate} <span>{currentHour}</span></Text2>
+            <Text2>{currentDate} <span>{currentHour}</span></Text2> 
           </LInfo>
         </Location>
       </Consult>
